@@ -1,5 +1,5 @@
 # Team Legends
-## Linkedin Redesign
+## Coinbase Redesign
 <p class="has-line-data" data-line-start="2" data-line-end="3">Welcome to develop branch</p>
 <p class="has-line-data" data-line-start="4" data-line-end="5">Here is the DEFAULT branch till we are finally done.</p>
 <p class="has-line-data" data-line-start="6" data-line-end="8">Please note: The commit messages should follow a consistent pattern:<br>
